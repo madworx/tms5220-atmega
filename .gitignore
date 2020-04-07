@@ -1,0 +1,9 @@
+hardware/*-cache.lib
+hardware/*.kicad_pcb-bak
+hardware/*.sch-bak
+hardware/fp-info-cache
+software/*.elf
+software/*.hex
+software/*.o
+software/*.s
+software/sound.wav

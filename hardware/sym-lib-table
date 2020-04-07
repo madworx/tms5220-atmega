@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name TMS5220)(type Legacy)(uri ${KIPRJMOD}/components/ic-TMS5220.lib)(options "")(descr ""))
+  (lib (name TPS6735)(type Legacy)(uri ${KIPRJMOD}/components/ic-TPS6735.lib)(options "")(descr ""))
+  (lib (name UB232R)(type Legacy)(uri ${KIPRJMOD}/components/LIB_UB232R/UB232R.lib)(options "")(descr ""))
+)

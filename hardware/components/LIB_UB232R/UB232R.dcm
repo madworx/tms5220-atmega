@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UB232R
+D USB-serial module,FT232RQ,USB B,UB232R USB-serial module,FT232RQ,USB B,UB232R
+K
+F http://www.farnell.com/datasheets/1212631.pdf?_ga=2.44091815.2023179997.1527516582-1411154270.1472651675
+$ENDCMP
+#
+#End Doc Library

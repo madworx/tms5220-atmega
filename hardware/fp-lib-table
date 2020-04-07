@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name UB232R)(type Legacy)(uri ${KIPRJMOD}/components/LIB_UB232R/UB232R.mod)(options "")(descr ""))
+  (lib (name AVR-ISP-6)(type KiCad)(uri ${KIPRJMOD}/components/AVR-ISP-6)(options "")(descr "")(disabled))
+)
